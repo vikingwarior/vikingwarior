@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">I am a Microsoft Azure certified developer. Currently in the last year of my Engineering</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/73878892/207435616-3dc52022-b791-4323-bb4e-bbd294fc2bcc.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikingwarior&label=Profile%20views&color=0e75b6&style=flat" alt="vikingwarior" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/73878892/207435616-3dc52022-b791-4323-bb4e-bbd294fc2bcc.gif">
 
 - 🔭 I’m currently working on [414 Days of Code](https://github.com/VikingWarior/LeetCode)
 
