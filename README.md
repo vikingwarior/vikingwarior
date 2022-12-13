@@ -1,9 +1,9 @@
+![intro_banner](https://user-images.githubusercontent.com/73878892/207435616-3dc52022-b791-4323-bb4e-bbd294fc2bcc.gif)
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">I am a Microsoft Azure certified developer. Currently in the last year of my Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikingwarior&label=Profile%20views&color=0e75b6&style=flat" alt="vikingwarior" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikingwarior" alt="vikingwarior" /></a> </p>
 
 - 🔭 I’m currently working on [414 Days of Code](https://github.com/VikingWarior/LeetCode)
 
