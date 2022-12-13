@@ -1,4 +1,4 @@
-![intro_banner](https://user-images.githubusercontent.com/73878892/207435616-3dc52022-b791-4323-bb4e-bbd294fc2bcc.gif)
+[![MasterHead](https://user-images.githubusercontent.com/73878892/207435616-3dc52022-b791-4323-bb4e-bbd294fc2bcc.gif)
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">I am a Microsoft Azure certified developer. Currently in the last year of my Engineering</h3>
 
