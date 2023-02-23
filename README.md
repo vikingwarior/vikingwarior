@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif"/>
+<img align="center" src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif"/>
 
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">I am a Microsoft Azure certified developer. Currently in the last year of my Engineering</h3>
