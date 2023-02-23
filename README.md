@@ -1,4 +1,4 @@
-<div align="center"><img src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" width="895" height="485"/></div>
+<div align="center"><img src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" width="895" height="570"/></div>
 
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">I am a Microsoft Azure certified developer. Currently in the last year of my Engineering</h3>
