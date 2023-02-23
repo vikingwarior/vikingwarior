@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">I am a Microsoft Azure certified developer. Currently in the last year of my Engineering</h3>
 
+<div align = "center">
 # 💫 About Me:
 🔭 JavaScript<br>👯 I’m currently learning Java, Javascript<br>👨‍💻 All of my projects are available at https://github.com/VikingWarior/<br>💬 Ask me about DSA, Networking, Community<br>📫 How to reach me contact.harshparadkar@gmail.com
 
@@ -26,5 +27,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vikingwarior&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
