@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="23722022" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/mario-pixel-art-gaming-room-gif-23722022">Mario Pixel Art GIF</a>from <a href="https://tenor.com/search/mario-gifs">Mario GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif"/>
 
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">I am a Microsoft Azure certified developer. Currently in the last year of my Engineering</h3>
