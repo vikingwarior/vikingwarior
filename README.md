@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">I am a Microsoft Azure certified developer. Currently in the last year of my Engineering</h3>
 
-<div align = "center">
 💫 About Me:<br>👯 I’m currently learning Java, Javascript<br>👨‍💻 All of my projects are available at https://github.com/VikingWarior/<br>💬 Ask me about DSA, Networking, Community<br>📫 How to reach me contact.harshparadkar@gmail.com
+<div align = "center">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshparadkar/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/harxh__) 
