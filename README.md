@@ -22,6 +22,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<p>
+  <a href="https://github.com/vikingwarior">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikingwarior&theme=radical" alt="Harsh Paradkar GitHub Contribution"/>
+  </a>
+</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=vikingwarior&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
