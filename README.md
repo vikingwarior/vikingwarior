@@ -15,10 +15,9 @@
 # 📊 GitHub Stats:
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikingwarior&theme=radical)<br/>
  <br/>
- ![](https://github-readme-streak-stats.herokuapp.com/?user=vikingwarior&theme=blueberry&hide_border=false)<br/>
- <br/>
+![](https://github-readme-stats.vercel.app/api?username=vikingwarior&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vikingwarior&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikingwarior&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
