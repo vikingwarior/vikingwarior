@@ -13,8 +13,8 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 
 # 📊 GitHub Stats:
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikingwarior&theme=radical)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vikingwarior&theme=blueberry&hide_border=false)<br/>
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikingwarior&theme=radical)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vikingwarior&theme=blueberry&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikingwarior&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
