@@ -23,6 +23,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=vikingwarior&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake contribution graph](https://github.com/vikingwarior/vikingwarior/blob/output/github-contribution-grid-snake.svg)
+# 🐍 Snake Eating my Contributions
+
+![snake gif](https://github.com/vikingwarior/vikingwarior/blob/output/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
