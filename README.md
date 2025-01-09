@@ -4,7 +4,7 @@
 <h3 align="center">I am a Microsoft Azure certified developer</h3>
 
 <div align = "center">
-💫 About Me:<br>👯 I’m currently learning Three.js, TailwindCSS, GSAP Animation Library and UI design<br>👨‍💻 All of my projects are available at https://github.com/VikingWarior/<br>💬 Ask me about DSA, Networking, Community<br>📫 How to reach me contact.harshparadkar@gmail.com
+💫 About Me:<br>👯 I’m currently learning Three.js, TailwindCSS, GSAP Animation Library and UI design<br>👨‍💻 All of my projects are available at https://github.com/VikingWarior/<br>💬 Ask me about DSA, Networking, Community<br>📫 Reach me @ <a href="mailto:harsh.paradkar@outlook.com">harsh.paradkar@outlook.com</a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshparadkar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harsshGPT) 
